@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0125-valid-palindrome) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
