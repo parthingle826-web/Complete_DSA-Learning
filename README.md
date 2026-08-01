@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
