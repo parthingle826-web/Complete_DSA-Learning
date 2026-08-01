@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0050-powx-n) |
+| [2965-find-missing-and-repeated-values](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
