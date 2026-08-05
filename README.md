@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0287-find-the-duplicate-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
@@ -127,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0090-subsets-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
