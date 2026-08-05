@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
