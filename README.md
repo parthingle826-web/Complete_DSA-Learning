@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0567-permutation-in-string) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0131-palindrome-partitioning) |
 ## Counting
 |  |
 | ------- |
