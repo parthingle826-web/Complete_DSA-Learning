@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0912-sort-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,4 +169,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0037-sudoku-solver) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
