@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -205,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/parthingle826-web/Complete_DSA-Learning/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
